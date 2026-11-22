@@ -1,0 +1,2 @@
+cls
+python Process_Selection_Dialog.py
